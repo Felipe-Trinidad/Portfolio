@@ -1,1 +1,2 @@
 # Projects
+Welcome to the Coding Projects repository! This repository showcases various coding projects, each designed to tackle specific challenges or demonstrate different aspects of programming. Whether you are interested in cybersecurity, algorithms, machine learning, or other coding concepts, you’ll find a collection of projects here with code and documentation to help you explore and understand each one.
